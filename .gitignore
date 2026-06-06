@@ -1,2 +1,4 @@
 *.o
 test_evolution
+target/
+Cargo.lock
